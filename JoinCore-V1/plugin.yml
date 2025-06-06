@@ -1,6 +1,6 @@
 name: JoinCore-V1
 author: ItsMaipianX
-api: ["3.0.0", "4.0.0", "5.0.0"]
+api: 5.0.0
 version: 1.0.0
 src-namespace-prefix: maipianx
 main: maipianx\Loader
